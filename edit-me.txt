@@ -1,7 +1,3 @@
 Hello World!
-learn 
+learn
 open first-ide-lab
-
-
-
-
